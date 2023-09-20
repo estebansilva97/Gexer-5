@@ -1,0 +1,4 @@
+path/to/large/file filter=lfs diff=lfs merge=lfs -text
+/Cursos/Angular/GexerAct filter=lfs diff=lfs merge=lfs -text
+.angular filter=lfs diff=lfs merge=lfs -text
+.pack filter=lfs diff=lfs merge=lfs -text
